@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - 📖 I am currently reading **The Alchemist** by Paulo Coelho
 - 📫 How to reach me: [email](mailto:surajmulchandani37@gmail.com)
 - 😄 Pronouns: He/him
+
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajm-333&hide=contribs,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajm-333)](https://github.com/anuraghazra/github-readme-stats)
