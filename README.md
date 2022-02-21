@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [email](mailto:surajmulchandani37@gmail.com)
 - 😄 Pronouns: He/him
 
-[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajm-333&hide=contribs,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajm-333)](https://github.com/anuraghazra/github-readme-stats)
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajm-333&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajm-333&theme=dark)](https://git.io/streak-stats)
